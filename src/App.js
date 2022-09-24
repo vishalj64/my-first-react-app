@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Order></Order>
       <Payment></Payment>
+      <h1>Home page</h1>
     </div>
   );
 }
