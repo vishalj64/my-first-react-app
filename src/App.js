@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Order from './Order';
+import Payment from './Payment';
 
 function App() {
   return (
