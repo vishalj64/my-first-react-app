@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <Order></Order>
+      <Payment></Payment>
     </div>
   );
 }
